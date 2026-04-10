@@ -1,2 +1,2 @@
 window.RULES_INTERMEDIATE = {
-}
+};
